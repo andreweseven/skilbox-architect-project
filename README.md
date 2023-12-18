@@ -1,2 +1,0 @@
-# skilbox-architect-project
-Hello
